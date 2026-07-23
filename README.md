@@ -14,7 +14,6 @@
 
 ---
 
-# 👋 About Me
 
 I'm **Anshu Gupta**, a Final Year **Computer Science Engineering** student with a passion for building modern web applications and continuously improving as a developer.
 
@@ -23,7 +22,7 @@ I enjoy creating responsive user interfaces, learning backend development with t
 I'm always eager to explore new technologies, contribute to meaningful projects, and grow into a well-rounded **Full Stack Software Engineer**.
 
 
-👨‍💻 About Me
+###👨‍💻 About Me
 
 - 🎓 Final Year B.Tech Computer Science Engineering Student
 - 💻 Full Stack MERN Developer
