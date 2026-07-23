@@ -9,17 +9,21 @@
 </p>
 
 <p align="center">
-  <strong>
-    Passionate Full Stack Developer focused on building scalable, responsive,
-    and user-friendly web applications using the MERN Stack.
-    I enjoy solving real-world problems through clean code and continuously
-    improving my skills in Backend Development, Java, and Data Structures & Algorithms.
-  </strong>
+  
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
+
+I'm **Anshu Gupta**, a Final Year **Computer Science Engineering** student with a passion for building modern web applications and continuously improving as a developer.
+
+I enjoy creating responsive user interfaces, learning backend development with the **MERN stack**, and strengthening my foundation in **Java**, **Data Structures & Algorithms**, and **Software Engineering**. I believe the best way to learn is by building real projects, solving practical problems, and continuously refining my skills.
+
+I'm always eager to explore new technologies, contribute to meaningful projects, and grow into a well-rounded **Full Stack Software Engineer**.
+
+
+👨‍💻 About Me
 
 - 🎓 Final Year B.Tech Computer Science Engineering Student
 - 💻 Full Stack MERN Developer
